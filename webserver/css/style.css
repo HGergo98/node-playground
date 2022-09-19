@@ -12,3 +12,9 @@ body {
   display: grid;
   place-content: center;
 }
+
+img {
+  max-width: 600px;
+  width: 90%;
+  margin: 0;
+}
