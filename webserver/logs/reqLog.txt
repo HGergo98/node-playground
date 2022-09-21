@@ -5,3 +5,26 @@
 2022-09-19	21:16:46	8ff40283-e11c-4451-854c-61edbfdcc326	/new-page	GET
 2022-09-19	21:16:46	7237426f-c28d-4e48-a656-3c8e7b72aea6	/css/style.css	GET
 2022-09-19	21:16:46	0d71d683-ef27-46e3-801b-79a79c91679b	/img/image.jpg	GET
+2022-09-21	21:12:27	8d5a9dbd-eeed-44b4-9213-8400bd77c472	GET	undefined	/index
+2022-09-21	21:12:27	a654aeec-fdaf-4c95-9263-1ef3fd47346c	GET	undefined	/css/style.css
+2022-09-21	21:14:47	5cedea2b-0115-40f3-b700-0e6ed0e043cf	GET	undefined	/index
+2022-09-21	21:14:47	d90fae5c-c70f-4e4d-aedf-0edcd5ffdfdb	GET	undefined	/css/style.css
+2022-09-21	21:16:03	b2f3ddc1-9047-4de5-89da-fd3237955fb1	OPTIONS	https://www.google.com	/
+2022-09-21	21:16:03	76d89e80-1742-42b5-a1f7-3aba8737f526	GET	https://www.google.com	/
+2022-09-21	21:18:00	b24ec205-0065-4160-a0a0-1a05515bf60b	OPTIONS	https://www.google.com	/
+2022-09-21	21:18:00	cd9fe39c-a122-4ba1-8021-a93310843b72	GET	https://www.google.com	/
+2022-09-21	21:23:04	eca7f7f5-32ee-43d5-82a5-a6ed219c83f7	OPTIONS	https://www.google.com	/
+2022-09-21	21:23:04	d7fad135-8b77-4e84-9e25-f277ea224fe2	GET	https://www.google.com	/
+2022-09-21	21:23:36	594d5eb1-da22-4ef5-a99a-cfedc2b76e25	OPTIONS	https://www.google.com	/
+2022-09-21	21:23:36	78917452-6838-4c7f-a0f4-ca7e803cccf3	GET	https://www.google.com	/
+2022-09-21	21:27:36	64f7a0aa-7ff1-4c5c-8c45-c476b4ef96a2	GET	undefined	/index
+2022-09-21	21:28:17	baa62cb9-1f84-4c65-9aea-02249656a292	GET	undefined	/index
+2022-09-21	21:28:17	272636aa-9153-4691-af19-e02cf0c1024b	GET	undefined	/css/style.css
+2022-09-21	21:32:20	5a66f799-c87a-4403-8f66-70af95dfbfa5	GET	undefined	/index
+2022-09-21	21:32:20	8d498694-0277-4abe-aaa3-d83049951aef	GET	undefined	/css/style.css
+2022-09-21	21:32:45	53b61513-2d94-43c4-a4ef-d49a075a1881	GET	undefined	/index
+2022-09-21	21:34:20	f3cc9b0a-2161-478e-963b-0029f32c62e9	GET	undefined	/index
+2022-09-21	21:37:22	7e059aca-88c1-4e0e-8a6a-ecb364e18713	GET	undefined	/asd
+2022-09-21	21:37:22	fbd573e1-1ca0-4940-8306-7fdf34fe9487	GET	undefined	/css/style.css
+2022-09-21	21:40:48	5c4c3a04-b4f7-4aaa-bd8b-dc92a381aac3	GET	undefined	/asd.json
+2022-09-21	21:40:48	a0fdc80d-3799-44ed-8562-f2db194bd224	GET	undefined	/css/style.css
