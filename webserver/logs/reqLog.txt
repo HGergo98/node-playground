@@ -52,3 +52,8 @@
 2022-09-23	16:23:08	49d49e38-2f74-427a-aaf7-9a3c4ac600fe	GET	undefined	/new-page
 2022-09-23	16:23:08	ec0b6c66-ce3e-4a54-bb1a-25884eac807a	GET	undefined	/css/style.css
 2022-09-23	16:23:08	8b5670df-2af8-4e15-815a-bd85f3cf08ad	GET	undefined	/img/image.jpg
+2022-09-23	16:34:30	080fdaa9-b436-4426-afab-506ea3e61fa5	GET	undefined	/new-page
+2022-09-23	16:34:30	c6f6a89c-4b84-41d4-9e99-d882352e6ea7	GET	undefined	/css/style.css
+2022-09-23	16:34:30	853fbceb-75bf-4a63-9e36-7b845cb38c8c	GET	undefined	/img/image.jpg
+2022-09-23	16:34:33	690cb3e6-ed79-4612-9925-fac1dac94292	GET	undefined	/
+2022-09-23	16:34:33	06328f66-eeaa-40f7-92a1-ea5691cd7023	GET	undefined	/css/style.css
